@@ -1,0 +1,1 @@
+{\n  "name": "minecraft-ai-bot-swarm",\n  "version": "1.0.0",\n  "description": "A Minecraft bot that utilizes mineflayer and other libraries.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "mineflayer": "^3.14.1",\n    "crypto": "^1.0.1"\n  }\n}
